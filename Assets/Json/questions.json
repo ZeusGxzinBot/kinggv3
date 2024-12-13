@@ -1,0 +1,659 @@
+{
+    "questions": [
+        {
+            "question": "Com quantos anos uma pessoa se torna adulta? (NO BRASIL)",
+            "answers": [
+                "18",
+                "dezoito"
+            ],
+            "description": "Em muitos países, como o Brasil, a pessoa é considerada adulta e responsável por seus próprios atos aos 18. Para os médicos, no entanto, 18 ainda é cedo. Antes dos 24 anos, o cérebro não está formado o suficiente para que a pessoa saiba avaliar as situações de uma maneira clara."
+        },
+        {
+            "question": "Atualmente, qual é o país mais populoso do mundo?",
+            "answers": [
+                "índia"
+            ],
+            "description": "A China (país asiático) é a nação com o maior número de habitantes, sendo seguida pela Índia. Porém, conforme estimativas da ONU, o contingente populacional indiano ultrapassará o chinês até 2050."
+        },
+        {
+            "question": "Qual é o maior site de buscas atual?",
+            "answers": [
+                "google",
+                "google chrome",
+                "chrome"
+            ],
+            "description": "O maior e mais conhecido site de buscas. Embora já existisse previamente, o Google alcançou seu sucesso em meados de 2001. Seu conceito é baseado no uso do PageRank, que tem como premissa que as páginas mais buscadas estejam ligadas, em maior quantidade, a outras páginas."
+        },
+        {
+            "question": "Primogênito é o nome dado ao primeiro ou ao último filho de um casal?",
+            "answers": [
+                "primeiro"
+            ],
+            "description": "Primogênito é o termo utilizado para designar o primeiro filho de um casal, também conhecido como o filho mais velho, em relação aos seus irmãos consanguíneos."
+        },
+        {
+            "question": "Qual é o nome do personagem do folclore brasileiro que tem uma perna só?",
+            "answers": [
+                "saci",
+                "saci-pererê"
+            ],
+            "description": "Nome de origem tupi-guarani, o Saci-pererê é uma das lendas brasileiras mais conhecidas. É representada por um menino negro que possui uma perna só. Além disso, fuma cachimbo e usa uma carapuça vermelha que lhe dá poderes mágicos. Muito brincalhão e travesso, o Saci surge como um redemoinho e gosta de assustar pessoas."
+        },
+        {
+            "question": "Qual é o nome da figura natalina em forma de bom velhinho?",
+            "answers": [
+                "papai-noel",
+                "papai noel"
+            ],
+            "description": "Uma das figuras mais populares do Natal é o Papai Noel, um velhinho barbudo e barrigudo que se veste de vermelho. Na tradição natalina, o Papai Noel é o personagem que traz presentes para as crianças bem-comportadas na véspera do Natal."
+        },
+        {
+            "question": "Qual é o refrigerante mais vendido do mundo?",
+            "answers": [
+                "coca",
+                "coca-cola",
+                "coca cola"
+            ],
+            "description": "Coca-Cola é um refrigerante carbonado vendido em lojas, restaurantes, mercados e máquinas de venda automática em todo o mundo. Ele é produzido pela The Coca-Cola Company, sediada em Atlanta, Estados Unidos, e é muitas vezes referido apenas como Coca-Cola."
+        },
+        {
+            "question": "Qual é o feminino de cão?",
+            "answers": [
+                "cadela"
+            ],
+            "description": "Substantivo feminino Fêmea do cão."
+        },
+        {
+            "question": "Qual é o conto infantil onde a personagem principal usa um sapatinho de cristal?",
+            "answers": [
+                "cinderela"
+            ],
+            "description": "Cinderela era filha de um comerciante rico. Depois que seu pai morreu, sua madrasta tomou conta da casa que era de Cinderela. Cinderela então, passou a viver com sua madrasta malvada, junto de suas duas filhas que tinham inveja da beleza de Cinderela e transformaram-na em uma serviçal.            "
+        },
+        {
+            "question": "No total, quantos meses tem uma criança que acabou de completar 1 ano de idade?",
+            "answers": [
+                "12",
+                "doze"
+            ],
+            "description": "O desenvolvimento e a formação da personalidade do bebé aos 12 meses: emoções e relações sociais, a linguagem e aprendizagem e competências motoras."
+        },
+        {
+            "question": "Quantos anos separam uma olimpíada de outra?",
+            "answers": [
+                "4",
+                "quatro"
+            ],
+            "description": "Olimpíadas ou Jogos Olímpicos são competições de diferentes modalidades esportivas que são realizadas a cada quatro anos, onde participam atletas de todos os continentes do mundo."
+        },
+        {
+            "question": "Quantos fusos horários existem na Rússia?",
+            "answers": [
+                "11",
+                "onze"
+            ],
+            "description": "E o governo, às vezes, toma decisões peculiares. É a Rússia, maior país do mundo em extensão longitudinal. Ao todo, 11 fusos horários e mais de 10 mil quilômetros separam a região oeste do extremo leste."
+        },
+        {
+            "question": "Quantas tiras há na bandeira dos Estados Unidos?",
+            "answers": [
+                "13",
+                "treze"
+            ],
+            "description": "A bandeira dos Estados Unidos é feita de treze faixas, sete delas vermelhas e seis brancas, e todas representam as treze colônias. Existe ainda, no canto superior esquerdo, de cor azul, um retângulo com cinquenta estrelas brancas, as quais fazem menção a todos os estados que compõem os país."
+        },
+        {
+            "question": "Quantos dias são necessários para a Terra orbitar o sol?",
+            "answers": [
+                "365"
+            ],
+            "description": "Você certamente aprendeu na escola que a Terra faz uma órbita elíptica em torno do Sol. Esse movimento, conhecido como translação, leva 365 dias (mais 5 horas, 45 minutos e 46 segundos) para ser completo."
+        },
+        {
+            "question": "Qual dos impérios a seguir não possui um idioma escrito: Inca, Azteca, Egípcio ou Romano?",
+            "answers": [
+                "inca",
+                "incas"
+            ],
+            "description": "Os incas foram uma das mais importantes civilizações do mundo, assim como os astecas e os maias. Originalmente os incas eram um clã da tribo dos quíchuas, localizado na região de Cusco, no Peru. A partir do século XII, porém, iniciaram a formação de um vasto império cuja capital era Cusco."
+        },
+        {
+            "question": "Qual país tem mais ilhas no mundo?",
+            "answers": [
+                "indonésia",
+                "indonesia"
+            ],
+            "description": "A Indonésia é formada por aproximadamente 14 mil ilhas no Oceano Índico, é considerado o maior arquipélago do mundo. Considerado o maior arquipélago do mundo, a Indonésia é formada por aproximadamente 14 mil ilhas no Oceano Índico, na porção sudeste do continente asiático."
+        },
+        {
+            "question": "Qual é o menor país do mundo?",
+            "answers": [
+                "vaticano"
+            ],
+            "description": "Menor país do mundo. Você sabia que o Vaticano é um país, reconhecido pela Organização das Nações Unidas? Situado bem na zona norte da cidade de Roma, o Vaticano é considerado o menor do mundo, com 0,50 Km2. Com 460 habitantes em 2012, o Vaticano tem como moeda o Euro."
+        },
+        {
+            "question": "Onde é o lugar natural mais baixo do planeta Terra?",
+            "answers": [
+                "fossa das marianas"
+            ],
+            "description": "A Fossa das Marianas é o local mais profundo dos oceanos, atingindo uma profundidade de 10 984 metros. Localiza-se no oceano Pacífico, a leste das ilhas Marianas, na fronteira convergente entre as placas tectônicas do Oceano Pacífico e das Filipinas."
+        },
+        {
+            "question": "Qual é o rio mais longo do mundo?",
+            "answers": [
+                "amazonas",
+                "rio amazonas"
+            ],
+            "description": "Maior rio do mundo em volume de água, o Amazonas agora pode ser considerado também o maior em extensão, com 140 quilômetros a mais que o rio Nilo, na África."
+        },
+        {
+            "question": "Qual é a série de livros mais vendida do século 21?",
+            "answers": [
+                "harry potter"
+            ],
+            "description": "Harry Potter é de longe a série literária mais vendida no mundo (450 milhões, considerando todos os livros), mas cada título ocupa uma posição diferente na lista dos mais vendidos."
+        },
+        {
+            "question": "De onde é a invenção do chuveiro elétrico?",
+            "answers": [
+                "brasil"
+            ],
+            "description": "Francisco Canhos é o nome do homem que, na década de 40, desenvolveu o primeiro chuveiro elétrico seguro em Jaú-SP. O aparelho vinha sendo desenvolvido desde os anos 30, mas apresentava riscos de curto-circuito."
+        },
+        {
+            "question": "Quantas casas decimais tem o número pi?",
+            "answers": [
+                "infinitas",
+                "infinito",
+                "infinita"
+            ],
+            "description": "Ao longo dos tempos, vários estudiosos têm se dedicado a calcular o número pi e já chegaram ao número de 5 bilhões de casas."
+        },
+        {
+            "question": "Atualmente, quantos elementos químicos a tabela periódica possui?",
+            "answers": [
+                "118"
+            ],
+            "description": "Os últimos elementos foram adicionados à tabela periódica em 2016. Eles são: 113 (Nihônio), 115 (Moscóvio), 117 (Tenessino) e 118 (Oganessônio)."
+        },
+        {
+            "question": "Quanto tempo a luz do Sol demora para chegar à Terra?",
+            "answers": [
+                "oito minutos",
+                "8 minutos",
+                "8m"
+            ],
+            "description": "Essa é uma questão que se fundamenta na ótica. Ela é calculada com base na distância do Sol em relação à Terra, que é de aproximadamente 150 000 000 km, considerando que a velocidade da luz no vácuo é 300 000 Km/s. 150 000 000 dividido por 300 000 é igual a 500 segundos, ou seja, 8,33 minutos."
+        },
+        {
+            "question": "Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?",
+            "answers": [
+                "caipora"
+            ],
+            "description": "Considerada a protetora da floresta, a Caipora assusta os caçadores, os quais levam-lhe fumo de corda. O fumo é deixado junto a um tronco de árvore com o intuito de agradar a Caipora para, assim, os caçadores poderem caçar."
+        },
+        {
+            "question": "Em que período da pré-história o fogo foi descoberto?",
+            "answers": [
+                "paleolítico"
+            ],
+            "description": "Foi no Paleolítico que o fogo começou a ser utilizado, quando os homens aprenderam que era possível obter fogo por meio do atrito de pedaços de madeira e pedra."
+        },
+        {
+            "question": "Qual a montanha mais alta do Brasil?",
+            "answers": [
+                "pico da neblina"
+            ],
+            "description": "O Pico da Neblina é o ponto mais elevado do Brasil, contando com 2995 metros de altura. Localiza-se no Amazonas, na fronteira com a Venezuela e a Colômbia."
+        },
+        {
+            "question": "Em qual local da Ásia o português é língua oficial?",
+            "answers": [
+                "macau"
+            ],
+            "description": "Macau tem duas línguas oficiais, mandarim e português. Macau, uma região especial da China, foi território português até 1999."
+        },
+        {
+            "question": "\"It is six twenty\" ou \"twenty past six\". Que horas são em inglês?",
+            "answers": [
+                "06:20",
+                "6:20",
+                "6 e 20",
+                "seis e vinte"
+            ],
+            "description": "Em inglês, “past” é usado para indicar até 29 minutos passados de uma determinada hora. A partir de trinta minutos, é usada a expressão “half past”: It is half past eight. ou It is eight thirty."
+        },
+        {
+            "question": "Como é a conjugação do verbo caber na 1.ª pessoa do singular do presente do indicativo?",
+            "answers": [
+                "eu caibo"
+            ],
+            "description": "Caber é um verbo irregular da 2ª conjugação. Apesar de estranho, “eu caibo” é a forma correta de conjugá-lo na 1ª pessoa do presente do indicativo."
+        },
+        {
+            "question": "Cite um dos países transcontinentais:",
+            "answers": [
+                "rússia"
+            ],
+            "description": "A Rússia, cujo nome oficial é Federação Russa, é o maior país em extensão territorial do mundo. Essa nação é transcontinental, pois pertence a mais de um continente: Europa e Ásia."
+        },
+        {
+            "question": "Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?",
+            "answers": [
+                "mitologia"
+            ],
+            "description": "A mitologia é um sistema de crenças que inclui uma série de narrativas e lendas, as quais fizeram parte do imaginário coletivo de diversas civilizações antigas. Dessa forma, no começo do desenvolvimento da humanidade, diversos povos utilizaram a mitologia para explicar alguns fenômenos e a origem das coisas."
+        },
+        {
+            "question": "Júpiter e Plutão são os correlatos romanos de quais deuses gregos?",
+            "answers": [
+                "zeus e hades"
+            ],
+            "description": "Na mitologia romana, Júpiter tem Zeus como seu correlato grego. Ele é considerado o pai dos deuses, sendo o deus dos céus, da chuva, da luz e do raio. Já Plutão, tem Hades como seu correlato grego, o deus do submundo e dos infernos."
+        },
+        {
+            "question": "Qual o maior animal terrestre?",
+            "answers": [
+                "elefante africano"
+            ],
+            "description": "O elefante africano é o maior animal terrestre. Ele pode medir até 4 metros de altura e 7 de comprimento. Seu peso pode chegar até 8 toneladas."
+        },
+        {
+            "question": "Cite o nome de um dos três Reis Magos?",
+            "answers": [
+                "baltazar",
+                "belchior",
+                "gaspar"
+            ],
+            "description": "Os três reis magos são personalidades que visitaram Jesus após o seu nascimento. Eles ofereceram alguns itens como forma de presentear a chegada do Salvador. Assim, Belchior levou ouro, Gaspar, incenso, e Baltazar, mirra."
+        },
+        {
+            "question": "Qual a religião monoteísta que conta com o maior número de adeptos no mundo?",
+            "answers": [
+                "cristianismo"
+            ],
+            "description": "Baseado na fé em Jesus Cristo, o filho de Deus, o Cristianismo é a religião com maior número de fiéis no mundo, com aproximadamente 2 bilhões de seguidores."
+        },
+        {
+            "question": "As pessoas de qual tipo sanguíneo são consideradas doadores universais?",
+            "answers": [
+                "O-",
+                "O negativo",
+                "tipo O",
+                "tipo O negativo"
+            ],
+            "description": "O tipo considerado “doador universal” é o O-, enquanto o AB+ pode receber de todos os outros tipos. A chamada compatibilidade sanguínea é sempre observada no processo de doação para evitar problemas de coagulação no receptor."
+        },
+        {
+            "question": "Quais são os cromossomos que determinam o sexo masculino?",
+            "answers": [
+                "y"
+            ],
+            "description": "Os cromossomos sexuais são dois: o “X” é o cromossomo feminino e “Y”, o cromossomo masculino."
+        },
+        {
+            "question": "Em que estado australiano fica situada a cidade de Sydney?",
+            "answers": [
+                "nova gales do sul"
+            ],
+            "description": "Sydney é a capital do estado australiano de Nova Gales do Sul, sendo a cidade mais populosa da Austrália com cerca de 5 milhões de habitantes."
+        },
+        {
+            "question": "Quem amamentou os gêmeos Rômulo e Remo?",
+            "answers": [
+                "uma loba",
+                "loba"
+            ],
+            "description": "Na mitologia Romana, Rômulo e Remo são dois irmãos gêmeos que foram alimentados por uma loba quando bebês. Filhos do Rei Marte e de Reia, quando nasceram, eles foram lançados em um rio para morrerem afogados, no entanto, foram encontradas por uma loba que passou a amamentá-los."
+        },
+        {
+            "question": "No exterior de que famoso edifício francês foi construída uma enorme pirâmide de vidro em 1989?",
+            "answers": [
+                "museu do louvre"
+            ],
+            "description": "O museu do Louvre, localizado em Paris no Palácio do Louvre, é o maior museu de arte do mundo e um dos monumentos mais visitados na cidade.\n\nA pirâmide de vidro e aço, situada na frente do museu, foi construída entre os anos de 1985 e 1989. Essa obra foi encomendada em 1984 pelo Presidente François Mitterrand e teve como arquiteto o chinês Ieoh Ming Pei."
+        },
+        {
+            "question": "Como se chamam os vasos que transportam sangue do coração para a periferia do corpo?",
+            "answers": [
+                "artérias"
+            ],
+            "description": "As artérias são um tipo de vasos sanguíneos que transportam o sangue arterial (com oxigênio e nutrientes) do coração para o corpo."
+        },
+        {
+            "question": "Que substância é absorvida pelas plantas e expirada por todos os seres vivos?",
+            "answers": [
+                "dióxido de carbono"
+            ],
+            "description": "O dióxido de carbono (CO2), popularmente chamado de gás carbônico, é uma molécula composta por um átomo de carbono (C) e dois de oxigênio (O). As plantas absorvem dióxido de carbono (CO2) do ar e o transformam no processo de fotossíntese. Já os animais, inspiram oxigênio (O2) e expiram dióxido de carbono (CO2)."
+        },
+        {
+            "question": "Qual o metal cujo símbolo químico é o Au?",
+            "answers": [
+                "ouro"
+            ],
+            "description": "O ouro é um metal de transição presente na tabela periódica, sendo representado pelo símbolo Au."
+        },
+        {
+            "question": "Quem foi o primeiro presidente do Brasil?",
+            "answers": [
+                "marechal deodoro da fonseca",
+                "deodoro da fonseca"
+            ],
+            "description": "Marechal Deodoro da Fonseca foi o primeiro presidente do Brasil, assumindo o cargo em 1889 após a Proclamação da República."
+        },
+        {
+            "question": "Qual é o maior planeta do sistema solar?",
+            "answers": [
+                "júpiter"
+            ],
+            "description": "Júpiter é o maior planeta do sistema solar, com um diâmetro aproximadamente 11 vezes maior que o da Terra."
+        },
+        {
+            "question": "Quem pintou a Mona Lisa?",
+            "answers": [
+                "leonardo da vinci",
+                "da vinci"
+            ],
+            "description": "Leonardo da Vinci, renomado artista renascentista italiano, pintou a Mona Lisa entre os anos de 1503 e 1506."
+        },
+        {
+            "question": "Qual é o processo pelo qual as plantas produzem seu próprio alimento?",
+            "answers": [
+                "fotossíntese"
+            ],
+            "description": "A fotossíntese é o processo pelo qual as plantas, algas e algumas bactérias convertem luz solar em energia química para alimentar seu crescimento."
+        },
+        {
+            "question": "Quem foi o autor de 'Romeu e Julieta'?",
+            "answers": [
+                "william shakespeare",
+                "shakespeare"
+            ],
+            "description": "William Shakespeare, famoso dramaturgo e poeta inglês, é o autor da tragédia romântica 'Romeu e Julieta', escrita por volta de 1597."
+        },
+        {
+            "question": "Qual é o rio mais longo do mundo?",
+            "answers": [
+                "rio amazonas",
+                "amazonas"
+            ],
+            "description": "O Rio Amazonas é o rio mais longo do mundo, com uma extensão de aproximadamente 7.062 quilômetros."
+        },
+        {
+            "question": "Quem inventou o telefone?",
+            "answers": [
+                "alexander graham bell"
+            ],
+            "description": "Alexander Graham Bell foi o inventor do telefone, um dispositivo que revolucionou as comunicações à distância."
+        },
+        {
+            "question": "Qual é o símbolo químico para o ouro?",
+            "answers": [
+                "au"
+            ],
+            "description": "Au é o símbolo químico para o ouro na tabela periódica dos elementos."
+        },
+        {
+            "question": "Quem foi o líder do movimento pelos direitos civis nos Estados Unidos, conhecido por seu discurso 'Eu Tenho um Sonho'?",
+            "answers": [
+                "martin luther king jr.",
+                "martin luther king jr"
+            ],
+            "description": "Martin Luther King Jr. foi um líder dos direitos civis nos Estados Unidos, conhecido por seu papel fundamental no avanço dos direitos civis para os afro-americanos através de meios não violentos e seu famoso discurso 'Eu Tenho um Sonho'."
+        },
+        {
+            "question": "Qual é a capital do Japão?",
+            "answers": [
+                "tóquio"
+            ],
+            "description": "Tóquio é a capital do Japão, sendo a maior cidade do país e um importante centro financeiro, cultural e político."
+        },
+        {
+            "question": "Qual é o país com a maior área territorial do mundo?",
+            "answers": [
+                "rússia"
+            ],
+            "description": "A Rússia é o maior país do mundo em área territorial, abrangendo uma vasta extensão na Europa do Leste e na Ásia."
+        },
+        {
+            "question": "Quem escreveu 'Dom Quixote'?",
+            "answers": [
+                "miguel de cervantes"
+            ],
+            "description": "'Dom Quixote', considerado um dos maiores romances da literatura mundial, foi escrito por Miguel de Cervantes e publicado pela primeira vez em 1605."
+        },
+        {
+            "question": "Qual é o elemento mais abundante na crosta terrestre?",
+            "answers": [
+                "oxigênio"
+            ],
+            "description": "O oxigênio é o elemento mais abundante na crosta terrestre, representando aproximadamente 46,6% do total em massa."
+        },
+        {
+            "question": "Em que ano a Segunda Guerra Mundial terminou?",
+            "answers": [
+                "1945"
+            ],
+            "description": "A Segunda Guerra Mundial terminou em 1945, após seis anos de conflito que envolveu a maioria das nações do mundo na época."
+        },
+        {
+            "question": "Qual é o maior órgão do corpo humano?",
+            "answers": [
+                "pele"
+            ],
+            "description": "A pele é o maior órgão do corpo humano, servindo como uma barreira protetora contra o ambiente externo e ajudando na regulação da temperatura corporal."
+        },
+        {
+            "question": "Quem foi o físico responsável pela teoria da relatividade?",
+            "answers": [
+                "albert einstein"
+            ],
+            "description": "Albert Einstein, renomado físico alemão, é conhecido por desenvolver a teoria da relatividade, que revolucionou nossa compreensão da física moderna."
+        },
+        {
+            "question": "Qual é a capital da França?",
+            "answers": [
+                "paris"
+            ],
+            "description": "Paris é a capital da França, conhecida por sua rica história, cultura, arte e arquitetura icônica, incluindo a Torre Eiffel e o Louvre."
+        },
+        {
+            "question": "Quem foi o primeiro ser humano a viajar para o espaço?",
+            "answers": [
+                "yuri gagarin"
+            ],
+            "description": "Yuri Gagarin, cosmonauta soviético, foi o primeiro ser humano a viajar para o espaço em 1961 a bordo da nave Vostok 1."
+        },
+        {
+            "question": "Qual é o símbolo químico para o carbono?",
+            "answers": [
+                "c"
+            ],
+            "description": "C é o símbolo químico para o carbono na tabela periódica dos elementos. O carbono é um elemento fundamental para a vida na Terra."
+        },
+        {
+            "question": "Quem foi o líder do movimento pela independência da Índia, que foi seguido pelo Mahatma Gandhi?",
+            "answers": [
+                "jawaharlal nehru"
+            ],
+            "description": "Jawaharlal Nehru foi um líder político indiano e o primeiro Primeiro-Ministro da Índia, desempenhando um papel crucial no movimento pela independência da Índia."
+        },
+        {
+            "question": "Qual é o nome da célula reprodutiva masculina?",
+            "answers": [
+                "espermatozoide"
+            ],
+            "description": "O espermatozoide é a célula reprodutiva masculina, responsável por fertilizar o óvulo feminino durante a reprodução sexual."
+        },
+        {
+            "question": "Qual é o nome do cientista que formulou a teoria do Big Bang?",
+            "answers": [
+                "georges lemaître"
+            ],
+            "description": "Georges Lemaître, astrônomo e padre católico belga, formulou a teoria do Big Bang, que descreve a origem e expansão do universo a partir de um estado inicial extremamente quente e denso."
+        },
+        {
+            "question": "Qual é o metal líquido à temperatura ambiente?",
+            "answers": [
+                "mercúrio"
+            ],
+            "description": "O mercúrio é o único metal que é líquido à temperatura ambiente. Ele é usado em termômetros devido ao seu comportamento peculiar de expansão térmica."
+        },
+        {
+            "question": "Qual é o segundo planeta a partir do Sol no sistema solar?",
+            "answers": [
+                "vênus"
+            ],
+            "description": "Vênus é o segundo planeta a partir do Sol e é frequentemente chamado de 'irmão gêmeo da Terra' devido a características semelhantes, como tamanho e composição rochosa."
+        },
+        {
+            "question": "Quem foi o autor de '1984'?",
+            "answers": [
+                "george orwell"
+            ],
+            "description": "'1984' é um romance distópico escrito por George Orwell, publicado em 1949, que descreve um futuro totalitário e vigilante."
+        },
+        {
+            "question": "Qual é a capital da Austrália?",
+            "answers": [
+                "camberra"
+            ],
+            "description": "Camberra é a capital da Austrália, localizada no Território da Capital Australiana. É o centro político do país."
+        },
+        {
+            "question": "Quem foi o primeiro astronauta a pisar na Lua?",
+            "answers": [
+                "neil armstrong"
+            ],
+            "description": "Neil Armstrong foi o primeiro astronauta a pisar na Lua em 20 de julho de 1969, durante a missão Apollo 11."
+        },
+        {
+            "question": "Qual é o nome do cientista que desenvolveu a teoria da evolução das espécies?",
+            "answers": [
+                "charles darwin"
+            ],
+            "description": "Charles Darwin foi um naturalista inglês que desenvolveu a teoria da evolução das espécies por meio da seleção natural, um dos conceitos fundamentais na biologia."
+        },
+        {
+            "question": "Quem foi o pintor do famoso quadro 'Noite Estrelada'?",
+            "answers": [
+                "vincent van gogh",
+                "van gogh"
+            ],
+            "description": "Vincent van Gogh, artista pós-impressionista holandês, pintou o famoso quadro 'Noite Estrelada' em 1889, representando uma paisagem noturna surreal com estrelas cintilantes."
+        },
+        {
+            "question": "Qual é o maior osso do corpo humano?",
+            "answers": [
+                "fêmur"
+            ],
+            "description": "O fêmur é o maior osso do corpo humano, localizado na coxa, e é crucial para o suporte do peso corporal e a movimentação."
+        },
+        {
+            "question": "Quem foi o autor de 'A Odisséia'?",
+            "answers": [
+                "homero"
+            ],
+            "description": "'A Odisséia' é um épico grego antigo atribuído ao poeta Homero, que conta a história da viagem de Ulisses de volta para casa após a Guerra de Troia."
+        },
+        {
+            "question": "Qual é o metal mais abundante na crosta terrestre?",
+            "answers": [
+                "alumínio"
+            ],
+            "description": "O alumínio é o metal mais abundante na crosta terrestre, representando aproximadamente 8,23% do peso total da crosta."
+        },
+        {
+            "question": "Qual é o único planeta do sistema solar que gira em sentido horário?",
+            "answers": [
+                "vênus"
+            ],
+            "description": "Vênus é o único planeta do sistema solar que gira em sentido horário, também conhecido como rotação retrógrada."
+        },
+        {
+            "question": "Quem foi o primeiro presidente dos Estados Unidos?",
+            "answers": [
+                "george washington"
+            ],
+            "description": "George Washington foi o primeiro presidente dos Estados Unidos, servindo de 1789 a 1797 e sendo um dos Pais Fundadores da nação."
+        },
+        {
+            "question": "Qual é o nome do cientista que descobriu a lei da gravitação universal?",
+            "answers": [
+                "isaac newton",
+                "newton"
+            ],
+            "description": "Isaac Newton, físico, matemático e astrônomo inglês, formulou a lei da gravitação universal, descrevendo a atração entre corpos massivos no universo."
+        },
+        {
+            "question": "Qual é o nome do instrumento utilizado para medir a pressão arterial?",
+            "answers": [
+                "esfigmomanômetro"
+            ],
+            "description": "O esfigmomanômetro é o instrumento usado para medir a pressão arterial, comumente conhecido como aparelho de pressão ou medidor de pressão."
+        },
+        {
+            "question": "Qual é o maior mamífero terrestre?",
+            "answers": [
+                "elefante africano"
+            ],
+            "description": "O elefante africano é o maior mamífero terrestre, com machos adultos podendo pesar até 6 toneladas e medir mais de 3 metros de altura."
+        },
+        {
+            "question": "Quem foi o autor de 'Guerra e Paz'?",
+            "answers": [
+                "lev tolstói"
+            ],
+            "description": "'Guerra e Paz', uma das maiores obras da literatura mundial, foi escrita por Lev Tolstói e publicada entre 1865 e 1869."
+        },
+        {
+            "question": "Qual é a capital do Canadá?",
+            "answers": [
+                "ottawa"
+            ],
+            "description": "Ottawa é a capital do Canadá, localizada na província de Ontário. É o quarto maior centro urbano do país."
+        },
+        {
+            "question": "Quem foi o líder espiritual e político da Índia que liderou o movimento de independência do país contra o domínio britânico?",
+            "answers": [
+                "mahatma gandhi"
+            ],
+            "description": "Mahatma Gandhi, também conhecido como Bapu, foi o líder do movimento de independência da Índia, usando a resistência não violenta como principal estratégia."
+        },
+        {
+            "question": "Qual é o nome do processo pelo qual as plantas perdem água na forma de vapor?",
+            "answers": [
+                "transpiração"
+            ],
+            "description": "A transpiração é o processo pelo qual as plantas perdem água na forma de vapor através dos poros das folhas, ajudando na absorção de nutrientes e na regulação da temperatura."
+        },
+        {
+            "question": "Quem foi o inventor do avião?",
+            "answers": [
+                "irmãos wright (wilbur e orville wright)",
+                "irmãos wright",
+                "wilbur e orville wright",
+                "wilbur e orville"
+            ],
+            "description": "Os irmãos Wright, Wilbur e Orville Wright, foram os inventores do primeiro avião bem-sucedido e controlado, realizado em 17 de dezembro de 1903."
+        },
+        {
+            "question": "Qual é o nome do cientista que formulou a teoria da relatividade restrita?",
+            "answers": [
+                "albert einstein",
+                "einstein"
+            ],
+            "description": "Albert Einstein formulou a teoria da relatividade restrita em 1905, descrevendo o movimento de corpos em altas velocidades, mostrando que o tempo e o espaço não são absolutos."
+        },
+        {
+            "question": "Qual é o nome da montanha mais alta do mundo?",
+            "answers": [
+                "monte everest",
+                "everest"
+            ],
+            "description": "O Monte Everest, na cordilheira do Himalaia, é a montanha mais alta do mundo, com uma altitude de 8.848 metros acima do nível do mar."
+        }
+    ]
+}

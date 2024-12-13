@@ -1,0 +1,50 @@
+{
+    "colors": {
+        "default": "#89d770",
+        "green": "#57e877",
+        "red": "#e64141",
+        "blue": "#5865F2",
+        "yellow": "#e6f558",
+        "pink": "#ed69c9"
+    },
+    "links": {
+        "official_guild": "https://discord.gg/kingg",
+        "invitation_url": "https://discord.com/api/oauth2/authorize?client_id=816841271964467241&permissions=414465780801&scope=bot%20applications.commands"
+    },
+    "permissions": {
+        "caua": "1128757545100660758"
+        
+    },
+    "jobs": {
+        "doctor": {
+            "name": "Médico",
+            "initial_salary": 700,
+            "salary_per_level": 70,
+            "cooldown": 9000000
+        },
+        "farmer": {
+            "name": "Agricultor",
+            "initial_salary": 400,
+            "salary_per_level": 40,
+            "cooldown": 3600000
+        },
+        "engineer": {
+            "name": "Engenheiro",
+            "initial_salary": 750,
+            "salary_per_level": 75,
+            "cooldown": 7200000
+        },
+        "policeofficer": {
+            "name": "Policial",
+            "initial_salary": 600,
+            "salary_per_level": 60,
+            "cooldown": 6300000
+        },
+        "firefighter": {
+            "name": "Bombeiro",
+            "initial_salary": 650,
+            "salary_per_level": 65,
+            "cooldown": 7200000
+        }
+    }
+}
